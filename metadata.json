@@ -1,0 +1,6 @@
+{
+  "name": "StormWatch Radar & Alerts",
+  "description": "Real-time storm tracking, interactive weather radar maps, and live severe weather push notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
